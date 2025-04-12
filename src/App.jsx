@@ -18,7 +18,7 @@ function App() {
       <input
         type="text"
         placeholder="Search by name or role..."
-        className="w-full p-3 border border-gray-300 rounded"
+        className="w-full p-3 border border-gray-300 rounded" 
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
