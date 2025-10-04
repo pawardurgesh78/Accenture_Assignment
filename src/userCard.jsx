@@ -13,5 +13,5 @@ const UserCard = ({ user }) => {
     </div>
   );
 };
-
+//g
 export default UserCard;
