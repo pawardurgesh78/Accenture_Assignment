@@ -13,5 +13,5 @@ const UserCard = ({ user }) => {
     </div>
   );
 };
-//git
+//gitup
 export default UserCard;
